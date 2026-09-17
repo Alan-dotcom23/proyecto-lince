@@ -7,14 +7,14 @@
 
 ## 🎨 Identidad Visual
 
-* **Logotipo:** `docs/diseno/logo.png`[cite: 1, 3]
-* **Paleta de Colores (Material Design 3):**[cite: 1, 3]
-  * **Principal:** `#0B5B3B` (Verde Esmeralda)[cite: 3]
-  * **Secundario:** `#C0C0C0` (Plateado Metálico)[cite: 3]
-  * **Fondo:** `#F4F7F5` (Neutro Claro)[cite: 3]
-  * **Texto:** `#121E17` (Verde Oscuro On-Surface)[cite: 3]
-  * **Éxito:** `#1E8E5A` (Confirmado / Check-in)[cite: 3]
-  * **Alerta:** `#C62828` (Rechazado / Taxis no autorizados)[cite: 3]
+* **Logotipo:** `docs/diseno/logo.png`
+* **Paleta de Colores (Material Design 3):**
+  * **Principal:** `#0B5B3B` (Verde Esmeralda)
+  * **Secundario:** `#C0C0C0` (Plateado Metálico)
+  * **Fondo:** `#F4F7F5` (Neutro Claro)
+  * **Texto:** `#121E17` (Verde Oscuro On-Surface)
+  * **Éxito:** `#1E8E5A` (Confirmado / Check-in)
+  * **Alerta:** `#C62828` (Rechazado / Taxis no autorizados)
 
 ---
 
