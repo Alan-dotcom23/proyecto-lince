@@ -1,7 +1,7 @@
 # TGO (Transfer & Go) - Gestión de Transfers y Tours 🚍🏔️
 
 ## 📌 Descripción del Proyecto
-**TGO (Transfer & Go)** es una solución móvil Android nativa desarrollada para conductores y guías turísticos en Chile[cite: 1, 2, 3]. La plataforma elimina la comunicación informal por llamadas y chats, centralizando la recepción de asignaciones, confirmaciones, registro de ejecuciones (*Check-in/out*) y la gestión de disponibilidad en terreno en un único sistema ordenado[cite: 2, 3].
+**TGO (Transfer & Go)** es una solución móvil Android nativa desarrollada para conductores y guías turísticos en Chile. La plataforma elimina la comunicación informal por llamadas y chats, centralizando la recepción de asignaciones, confirmaciones, registro de ejecuciones (*Check-in/out*) y la gestión de disponibilidad en terreno en un único sistema ordenado.
 
 ---
 
